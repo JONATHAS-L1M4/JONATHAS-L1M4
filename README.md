@@ -33,7 +33,6 @@ Trabalho na interseção entre **suporte técnico tradicional** e **automação 
 ### 🔧 Suporte & Infra
 ![Windows](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
 ![ITSM](https://img.shields.io/badge/ITSM%20%2F%20SLA-FF6600?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ### 🤖 Automação & IA
@@ -46,8 +45,8 @@ Trabalho na interseção entre **suporte técnico tradicional** e **automação 
 ### 🌐 Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### 📊 Ferramentas & Produtividade
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -63,14 +62,14 @@ Trabalho na interseção entre **suporte técnico tradicional** e **automação 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JONATHAS-L1M4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONATHAS-L1M4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JONATHAS-L1M4&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,10 +99,6 @@ Cursos & Certificações:
   - 🐍 Udemy               — Python do Básico ao Avançado    (2022)
   - 🐧 Udemy               — Linux / Shell Script            (2021)
   - 🔧 Help Byte           — Montagem, Redes e Impressoras   (2015)
-
-Formação Acadêmica:
-  - 🎓 Ensino Médio Completo
-  - 📚 Segurança da Informação (cursando — UNIP)
 ```
 
 ---
@@ -119,13 +114,12 @@ timeline
          : Atendimento, organização e processos
     2020 : Assistente de TI
          : Suporte técnico, hardware, software e redes
-         : Início dos testes com Docker e automação
     2024 : Técnico de Suporte — Projetos Enterprise
          : Migração Windows 10 → 11 em larga escala
-         : Automação com n8n e uso de IA em suporte
     2025 : Foco em Automação e IA para TI
          : Desenvolvimento de fluxos inteligentes
          : Scripts Python, Docker e LLMs aplicados
+    2026 : Automação com n8n e uso de IA em suporte
 ```
 
 ---
