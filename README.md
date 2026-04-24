@@ -62,7 +62,7 @@ Trabalho na interseção entre **suporte técnico tradicional** e **automação 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JONATHAS-L1M4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JONATHAS-L1M4&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONATHAS-L1M4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
