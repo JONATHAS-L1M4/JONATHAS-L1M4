@@ -108,18 +108,19 @@ Cursos & Certificações:
 ```mermaid
 timeline
     title Trajetória Profissional em TI
-    2018 : Jovem Aprendiz
+    2018 : 🏪 GPA — Jovem Aprendiz
          : Primeiro contato com ambiente corporativo
-    2019 : Operador de Loja
+    2019 : 🛒 Assaí Atacadista (SP) — Operador de Loja
          : Atendimento, organização e processos
-    2020 : Assistente de TI
+    2020 : 🖥️ Assaí Atacadista (Diadema) — Assistente de TI
          : Suporte técnico, hardware, software e redes
-    2024 : Técnico de Suporte — Projetos Enterprise
+    2024 : 🚛 Mercedes-Benz via Tecnocomp — Técnico de Suporte
+         : Instalação e configuração Windows 11
+    2025 : 🌐 T-Systems do Brasil — Suporte Técnico
          : Migração Windows 10 → 11 em larga escala
-    2025 : Foco em Automação e IA para TI
-         : Desenvolvimento de fluxos inteligentes
+    2026 : 🤖 Foco em Automação e IA para TI
          : Scripts Python, Docker e LLMs aplicados
-    2026 : Automação com n8n e uso de IA em suporte
+         : Automação com n8n e IA aplicada ao suporte
 ```
 
 ---
@@ -133,7 +134,7 @@ timeline
 | 🤖 **n8n-support-flows** | Fluxos de automação para controle de chamados e notificações | n8n, Webhooks, API REST |
 | 🐳 **docker-lab-env** | Ambiente Docker para testes e padronização de setup | Docker, Docker Compose |
 | 🧠 **ai-support-helper** | Script que consulta IA para sugerir respostas e soluções de TI | Python, OpenAI API |
-| 📊 **it-dashboard** | Dashboard de indicadores de suporte e SLA | Python, Flask, Power BI |
+| 📊 **it-dashboard** | Dashboard de indicadores de suporte e SLA | Python, FastAPI, Power BI |
 | 🪟 **win11-migration-checklist** | Checklist e scripts para migração Windows 10 → 11 | PowerShell, Batch |
 
 ---
